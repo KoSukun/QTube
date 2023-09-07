@@ -1,8 +1,8 @@
 <script>
-	import Component from "..Component";
+	import RegisterRequest from "..q-tube-register-request";
 </script>
 
-<Component />
+<RegisterRequest />
 
 <svelte:head>
 	<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
